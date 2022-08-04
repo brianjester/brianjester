@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @brianjester
-- 👀 I’m interested in amateur radio
-- 🌱 I’m currently learning bootstrap (again)
-- 💞️ I’m looking to collaborate on Summits On The Air
-- 📫 How to reach me: Branvini Films on YouTube
+- 🗼 I’m interested in amateur radio
+- 📫 How to reach me: [Branvini Films](https://www.youtube.com/user/brianjester123)
 
 <!---
 brianjester/brianjester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
