@@ -4,7 +4,7 @@ Brian Jester's Portfolio - IndexFlip, DMR QRZ, Cabrillo Log, SOTA logs, Castles 
 
 ## Offerings
 
-- [IndexFlip](http://indexflip.com) - Flashcards for Japanese Kanji and Hiragana, Amateur Radio Technician question pool, DMV practice tests, and Real Estate practice tests.
+- [IndexFlip](http://indexflip.com) - Flashcards for Music, Amateur Radio (US, CAN, JP), Japanese, DMV (US CA & NY), Real Estate.
 - [DMR QRZ](http://dmrqrz.com) - Lookup contacts in the DMR DB by ID or call sign
 - [Cabrillo Logs](http://cabrillolog.com) - Create your Amateur Radio contest log here.
 - [SOTA Log](http://sotalogs.com) - Easy CSV SOTA Logs
