@@ -16,4 +16,5 @@ Brian Jester's Portfolio - IndexFlip, DMR QRZ, Cabrillo Log, SOTA logs, Castles 
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- [Want to submit a feature request, or file a bug report?](https://github.com/brianjester/brianjester.github.com/issues)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7UOXY0)
