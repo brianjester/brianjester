@@ -10,7 +10,7 @@ Brian Jester's Portfolio - IndexFlip, DMR QRZ, Cabrillo Log, SOTA logs, Castles 
 - [SOTA Log](https://github.com/brianjester/brianjester.github.com/tree/master/sota-log) - Easy CSV SOTA Logs
 - [Book: Travel Guide: Castles of Okinawa](https://a.co/d/4BS9E7q) - 12 Castles, plus nearby sights and food
 - [Castles of Okinawa - Companion Site](https://brianjester.github.io/okinawa-castles/index.html) - Live companion site for the book
-- [Book: Fun Filipino Words and Culture](https://a.co/d/4WbDkpE) - check out our book on Amazon
+- [Book: Fun Filipino Words and Culture](https://a.co/d/4WbDkpE) - bilingual childrens book in Tagalog & English
 - [Unofficial Anytone Radio Site](https://brianjester.github.io/anytone) - Everything you'll need to setup your new DMR radio.
 - [Passive Income Projects](https://brianjester.github.io/passive-income) - Here's our chart of passive income from our side projects.
 - [Morse Code Key](https://brianjester.github.io/morse) - In-browser Morse code key, for use on PC with mouse.
